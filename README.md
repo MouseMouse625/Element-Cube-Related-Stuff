@@ -1,0 +1,1 @@
+This is a case for element cubes, cubes of normally metals that you can collect. Beware, this only fits if you have the standard 10mm element cubes, and have the standard acrylic clear cases for them (that are just over 13mm).
