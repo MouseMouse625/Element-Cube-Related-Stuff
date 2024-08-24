@@ -1,4 +1,4 @@
-## Element Cubes Related Stuff
+## Element Cube Related Stuff
 
 This is a case for element cubes, cubes of normally metals that you can collect. Beware, this only fits if you have the standard 10mm element cubes, and have the standard acrylic clear cases for them (that are just over 13mm). There are also models for non-feasible ones. Here's the link to the project on MakerWorld: [https://makerworld.com/en/models/603434](url).
 
